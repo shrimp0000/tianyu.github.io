@@ -68,7 +68,7 @@
 
 body{
     font-size: var(--normal-font-size);
-    background: url('/src/assets/beach_000.jpg');
+    background: url('beach_000.jpg');
     background-size: cover;
     color: black;
     font-weight: 400;
