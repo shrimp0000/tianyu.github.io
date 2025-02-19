@@ -7,7 +7,7 @@
 }
 
 body{
-    background: url('/src/assets/beach_000.jpg');
+    background: url('beach_000.jpg');
     background-size: cover;
     color: #d4eaf7;
 }
